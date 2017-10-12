@@ -1,0 +1,5 @@
+databaseServer localhost
+databasePort 3306
+databaseName TP_AM_DB
+databaseUsername root
+databasePassword root
